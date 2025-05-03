@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Anurag Anand, a dedicated developer specializing in creating dynamic and modern web applications with technologies like React, Node.js, and Next.js. My expertise extends to building scalable APIs, managing AWS-based deployments, and handling complex authentication systems. I'm driven by a passion for efficiency, user-centric design, and clean, maintainable code. Currently, I'm managing live projects on AWS, deploying APIs, and solving real-world problems with Paytm merchant APIs for payment tracking. When I'm not coding, you might find me working on consumer rights advocacy. Let's build something amazing together!
+Hi, I'm AAKASH KUMAR SINGH, a dedicated developer specializing in creating dynamic and modern web applications with technologies like React, Node.js, and Next.js. My expertise extends to building scalable APIs, managing AWS-based deployments, and handling complex authentication systems. I'm driven by a passion for efficiency, user-centric design, and clean, maintainable code. Currently, I'm managing live projects on AWS, deploying APIs, and solving real-world problems with Paytm merchant APIs for payment tracking. When I'm not coding, you might find me working on consumer rights advocacy. Let's build something amazing together!
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@ Hi, I'm Anurag Anand, a dedicated developer specializing in creating dynamic and
 [![](https://visitcount.itsvg.in/api?id=anuragco&icon=1&color=13)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anuragco) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AKASHDOTODEV) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
